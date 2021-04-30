@@ -1,2 +1,2 @@
 # Test_one
-https://darkwayder.github.io/rsschool-cv/cv
+https://darkwayder.github.io/Test_one/cv
